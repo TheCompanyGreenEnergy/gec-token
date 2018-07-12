@@ -5,13 +5,18 @@ Our main goal is to offer to investors the most profitable option of earning wit
 
 ## By investing in the project, token holders will be entitled to a share of the profits:
 - For waste collection 
+
 In our time, in many cities there is a problem of getting rid of waste from the city with large amounts of money. Our project is aimed at waste disposal by recycling waste into electricity and endogas.
 - For the sale of electricity 
+
 Part of the electricity will go on sale to consumers in nearby cities, and another part will go to the mining shop.
 - For the sale of endogas 
+
 Endogas will go on sale the heating stations for heating nearby towns and metallurgical industry.
 - For heat supply of the nearby city 
+
 - For mining cryptocurrency (mining farms)
+
 In our project, we will build a shop, which will be located the latest equipment for mining farms for cryptocurrency mining, as well as for the sale of servers mining shop, which will allow to extract additional income. Since the firm will mine using both ASIC and GPU, the revenue will not depend on the performance of a single coin.
 
 Any person investing in the project becomes part of the company and can enjoy the benefits of the company, as GEC tokens can be paid for mining operations cryptocurrency on a mining farm or receive profit, making exchange transactions of tokens for cash on world exchanges.
